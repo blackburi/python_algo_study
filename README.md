@@ -4,7 +4,7 @@
 
 |날짜(요일)|제목|난이도|링크|김태경|김민채|
 |:---:|:---:|:---:|---|:---:|:---:|
-|10/21 월요일|동영상 재생기|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/340213|O||
+|10/21 월요일|동영상 재생기|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/340213|O|O|
 ||경사로의 개수|lv4|https://school.programmers.co.kr/learn/courses/30/lessons/214290|||
 |10/22 화요일|퍼즐게임 챌린지|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/340212|||
 ||수식 복원하기|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/340210|||
