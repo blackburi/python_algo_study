@@ -24,7 +24,7 @@
 |날짜(요일)|제목|난이도|링크|김태경|김민채|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |10/28 월요일|선물 나눠주기 (Easy)|lv4|https://softeer.ai/practice/9665|||
-|10/29 화요일|나무 공격|lv2|https://softeer.ai/practice/9657||O|
+|10/29 화요일|나무 공격|lv2|https://softeer.ai/practice/9657|O|O|
 ||함께하는 효도|lv3|https://softeer.ai/practice/7727|||
 |10/30 수요일|산타의 텔레포트|lv4|https://softeer.ai/practice/7420|||
 |10/31 목요일|연탄의 크기|lv2|https://softeer.ai/practice/7628|||
