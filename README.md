@@ -27,8 +27,8 @@
 |10/29 화요일|나무 공격|lv2|https://softeer.ai/practice/9657|O|O|
 ||함께하는 효도|lv3|https://softeer.ai/practice/7727||O|
 |10/30 수요일|산타의 텔레포트|lv4|https://softeer.ai/practice/7420|||
-|10/31 목요일|연탄의 크기|lv2|https://softeer.ai/practice/7628|||
-||나무 섭지|lv3|https://softeer.ai/practice/7726|||
+|10/31 목요일|연탄의 크기|lv2|https://softeer.ai/practice/7628|O||
+||나무 섭지|lv3|https://softeer.ai/practice/7726|O||
 |11/1 금요일|징검다리2|lv4|https://softeer.ai/practice/6290|||
 |11/2 토요일|붕대 감기|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/250137|||
 ||안티 세포|lv4|https://school.programmers.co.kr/learn/courses/30/lessons/86054|||
