@@ -32,5 +32,5 @@
 |11/1 금요일|징검다리2|lv4|https://softeer.ai/practice/6290|||
 |11/2 토요일|붕대 감기|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/250137||O|
 ||안티 세포|lv4|https://school.programmers.co.kr/learn/courses/30/lessons/86054|||
-|11/3 일요일|석유 시추|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/250136|||
+|11/3 일요일|석유 시추|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/250136||O|
 ||산 모양 타일링|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/258705|||
