@@ -30,7 +30,7 @@
 |10/31 목요일|연탄의 크기|lv2|https://softeer.ai/practice/7628|O|O|
 ||나무 섭지|lv3|https://softeer.ai/practice/7726|O|O|
 |11/1 금요일|징검다리2|lv4|https://softeer.ai/practice/6290|||
-|11/2 토요일|붕대 감기|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/250137|||
+|11/2 토요일|붕대 감기|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/250137||O|
 ||안티 세포|lv4|https://school.programmers.co.kr/learn/courses/30/lessons/86054|||
 |11/3 일요일|석유 시추|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/250136|||
 ||산 모양 타일링|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/258705|||
