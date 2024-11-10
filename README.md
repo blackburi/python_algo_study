@@ -23,7 +23,7 @@
 ## 10/21 ~ 10/27
 |날짜(요일)|제목|난이도|링크|김태경|김민채|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|10/28 월요일|이웃한 칸|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/250125|||
+|10/28 월요일|이웃한 칸|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/250125||O|
 ||아방가르드 타일링|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/181186|||
 |10/29 화요일|나무 공격|lv2|https://softeer.ai/practice/9657|O|O|
 ||함께하는 효도|lv3|https://softeer.ai/practice/7727||O|
