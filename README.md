@@ -16,7 +16,7 @@
 ||1,2,3 떨어뜨리기|lv4|https://school.programmers.co.kr/learn/courses/30/lessons/150364|||
 |10/26 토요일|도넛과 막대그래프|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/258711|||
 ||n+1 카드게임|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/258707|||
-|10/27 일요일|공원|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/340198|||
+|10/27 일요일|공원|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/340198||O|
 ||행렬과 연산|lv1|https://school.programmers.co.kr/learn/courses/30/lessons/118670|||
 
 
