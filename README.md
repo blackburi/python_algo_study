@@ -37,3 +37,21 @@
 ||수레 움직이기|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/250134|||
 |11/3 일요일|석유 시추|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/250136||O|
 ||산 모양 타일링|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/258705|||
+
+## 11/11 ~ 11/17
+|날짜(요일)|제목|난이도|링크|김태경|김민채|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11/11 월요일|아날로그 시계|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/250135|||
+||억억단을 외우자|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/138475|||
+|11/12 화요일|요격 시스템|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/181188|||
+||숫자 타자 대회|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/136797|||
+|11/13 수요일|두 원 사이의 정수 쌍|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/181187|||
+||등대|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/133500|||
+|11/14 목요일|연속된 부분 수열의 합|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/178870|||
+||부대복귀|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/132266|||
+|11/15 금요일|과제 진행하기|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/176962|||
+||2차원 동전 뒤집기|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/131703|||
+|11/16 토요일|광물 캐기|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/172927|||
+||고고학 최고의 발견|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/131702|||
+|11/17 일요일|리코쳇 로봇|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/169199|||
+||카운트 다운|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/131129|||
