@@ -55,3 +55,21 @@
 ||고고학 최고의 발견|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/131702|||
 |11/17 일요일|리코쳇 로봇|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/169199|||
 ||카운트 다운|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/131129|||
+
+## 11/18 ~ 11/24
+|날짜(요일)|제목|난이도|링크|김태경|김민채|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|11/18 월요일|당구 연습|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/169198|||
+||등산코스 정하기|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/118669|||
+|11/19 화요일|혼자서 하는 틱택토|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/160585|||
+||코딩테스트 연습|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/118668|||
+|11/20 수요일|미로 탈출|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/159993|||
+||사라지는 발판|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/92345|||
+|11/21 목요일|호텔 대실|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/155651|||
+||파괴되지 않은 건물|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/92344|||
+|11/22 금요일||lv2|무인도 여행|https://school.programmers.co.kr/learn/courses/30/lessons/154540||
+||양과 늑대|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/92343|||
+|11/23 토요일|뒤에 있는 큰 수 찾기|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/154539|||
+||아이템 줍기|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/87694|||
+|11/24 일요일|숫자 변환하기|lv2|https://school.programmers.co.kr/learn/courses/30/lessons/154538|||
+||공 이동 시뮬레이션|lv3|https://school.programmers.co.kr/learn/courses/30/lessons/87391|||
